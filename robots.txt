@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-goqzn8.pulaucuansite.xyz/sitemap.xml
